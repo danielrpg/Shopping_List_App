@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dialog_item_width">300dp</dimen>
+    <dimen name="padding_size">16dp</dimen>
+    <dimen name="margin_top">16dp</dimen>
+    <dimen name="margin_end">16dp</dimen>
+    <dimen name="txt_title_size">20sp</dimen>
+    <dimen name="et_name_width">142dp</dimen>
+    <dimen name="et_name_height">40dp</dimen>
+    <dimen name="et_name_margin_top">20dp</dimen>
+    <dimen name="et_amount_width">100dp</dimen>
+    <dimen name="margin_bottom">16dp</dimen>
+    <dimen name="size_et">10</dimen>
+    <dimen name="tv_text_size">18sp</dimen>
+</resources>
